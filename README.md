@@ -1,1 +1,1 @@
-# M2_EsercizioD8.dapt.epicodesupino
+# Per completezza del modulo su Excel, ho ritenuto opportuno aggiungere un terzo file, "Excel_Studio", dove ho lavorato sugli argomenti extraprogramma PowerQuery e PowerPivot ricevuti da Luca ed Alessandra, facendo una semplice analisi sui dataset ricevuti durante il programma da Alessandra.
